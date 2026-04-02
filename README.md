@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привет, я Дмитрий 👋
 
-<!--
-**ReeneQo/ReeneQo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчик с коммерческим опытом создания полноценных клиент-серверных приложений.  
+Работаю с React и Next.js, активно двигаюсь в сторону фуллстек-разработки с Nest.js.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Стек
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Zustand, Framer Motion, React Router  
+**Backend:** Nest.js, Node.js, PostgreSQL, Redis, Docker  
+**Инструменты:** Git, Figma, REST API, Vercel, VPS-деплой
+
+---
+
+### 💼 Коммерческий опыт
+
+**Сайт-визитка для центра семейного образования** — полное клиент-серверное приложение  
+- Frontend на Next.js: адаптивная вёрстка, SEO, семантика, доступность, архитектура  
+- Backend на Nest.js: PostgreSQL, Redis (сессии), загрузка файлов, авторизация  
+- Админ-панель с полным CRUD  
+- Самостоятельный деплой на VPS  
+- Работа в команде
+
+**Сервис интернет-услуг** — клиент-серверное приложение на React  
+- Frontend на React + TypeScript: адаптивная вёрстка, клиент-серверное взаимодействие, оптимизация  
+- Backend на Nest.js: PostgreSQL через Docker, авторизация через Telegram-бота  
+- Админ-панель, взаимодействие с пользователями через Telegram (Telegraph)  
+- Работа в команде, основной фокус — frontend
+
+---
+
+### 📚 Сейчас
+
+- Углубляюсь в Nest.js и серверную разработку  
+- Двигаюсь к фуллстек-специализации  
+- Пишу pet-проекты для портфолио
+
+---
+
+### 📬 Контакты
+
+- Telegram: [@ReneeQ_o](https://t.me/ReneeQ_o)
