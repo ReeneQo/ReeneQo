@@ -41,17 +41,19 @@ Fullstack-разработчик с коммерческим опытом соз
 
 > Подробное описание с техническими деталями - в [📁 портфолио](https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/portfolio)
 
-**🏫 Bambi Best** - сайт центра семейного образования | [familyeducationcenter](https://familyeducationcenter.ru)
+**🏫 Family Education Center** - сайт центра семейного образования | [familyeducationcenter.ru](https://familyeducationcenter.ru)
 Fullstack: Next.js, NestJS, PostgreSQL, Redis, Docker. Админ-панель, SEO, самостоятельный деплой на VPS.
 
 **🎮 Spectre Boost** - коммерческий сервис интернет-услуг
 Frontend-фокус: React, TypeScript, Zustand. Оплата через YooKassa, авторизация через Telegram, личный кабинет.
+Backend (участие): проектирование REST API, доработка эндпоинтов, интеграция YooKassa.
 
 ---
 
 ### 📚 Сейчас
-- Углубляюсь в NestJS и серверную разработку
-- Двигаюсь к фуллстек-специализации
+
+- Углубляюсь в NestJS и серверную архитектуру
+- Цель - уверенный fullstack-разработчик с самостоятельным бэкендом
 
 ---
 
