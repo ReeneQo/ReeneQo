@@ -53,13 +53,6 @@ Backend (участие): проектирование REST API, доработ�
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЮЗЕРНЕЙМ&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЮЗЕРНЕЙМ&layout=compact&theme=default&hide_border=true)
-
----
-
 ### 📬 Открыт к предложениям
 
 Ищу позицию Frontend / Fullstack разработчика. Готов к собеседованию и тестовому заданию.
