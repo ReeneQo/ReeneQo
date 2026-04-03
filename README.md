@@ -1,7 +1,8 @@
-# Привет, я Дмитрий 👋
+# Дмитрий Зеленин
 
-Fullstack-разработчик с коммерческим опытом создания полноценных клиент-серверных приложений.
-Работаю с React и Next.js, активно углубляюсь в backend-разработку на NestJS.
+**Fullstack-разработчик** - 2 коммерческих проекта в продакшене, самостоятельный деплой на VPS, полный цикл от Figma до Nginx.
+
+🔗 [familyeducationcenter.ru](https://familyeducationcenter.ru) - мой проект в продакшене
 
 ---
 
@@ -42,22 +43,26 @@ Fullstack-разработчик с коммерческим опытом соз
 > Подробное описание с техническими деталями - в [📁 портфолио](https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/portfolio)
 
 **🏫 Family Education Center** - сайт центра семейного образования | [familyeducationcenter.ru](https://familyeducationcenter.ru)
-Fullstack: Next.js, NestJS, PostgreSQL, Redis, Docker. Админ-панель, SEO, самостоятельный деплой на VPS.
+Единственный разработчик. Fullstack: Next.js, NestJS, PostgreSQL, Redis, Docker.
+Админ-панель с CRUD, полная SEO-оптимизация, самостоятельный деплой на VPS (Nginx, SSL, Docker Compose).
+Результат: посещаемость +35%.
 
 **🎮 Spectre Boost** - коммерческий сервис интернет-услуг
-Frontend-фокус: React, TypeScript, Zustand. Оплата через YooKassa, авторизация через Telegram, личный кабинет.
+Frontend-фокус: React, TypeScript, Zustand. Калькулятор стоимости, оплата через YooKassa, авторизация через Telegram, личный кабинет.
 Backend (участие): проектирование REST API, доработка эндпоинтов, интеграция YooKassa.
 
 ---
 
-### 📚 Сейчас
+### 📊 GitHub Stats
 
-- Углубляюсь в NestJS и серверную архитектуру
-- Цель - уверенный fullstack-разработчик с самостоятельным бэкендом
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЮЗЕРНЕЙМ&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЮЗЕРНЕЙМ&layout=compact&theme=default&hide_border=true)
 
 ---
 
-### 📬 Контакты
+### 📬 Открыт к предложениям
+
+Ищу позицию Frontend / Fullstack разработчика. Готов к собеседованию и тестовому заданию.
 
 Почта: `wind.autumn@mail.ru`
-Telegram: `@ReneeQ_o`
+Telegram: [@ReneeQ_o](https://t.me/ReneeQ_o)
