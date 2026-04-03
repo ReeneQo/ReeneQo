@@ -40,7 +40,7 @@
 
 ### 💼 Коммерческие проекты
 
-> Подробное описание с техническими деталями - в [📁 портфолио](https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/portfolio)
+> Подробное описание с техническими деталями - в [📁 портфолио](https://github.com/ReeneQo/portfolio)
 
 **🏫 Family Education Center** - сайт центра семейного образования | [familyeducationcenter.ru](https://familyeducationcenter.ru)
 Единственный разработчик. Fullstack: Next.js, NestJS, PostgreSQL, Redis, Docker.
