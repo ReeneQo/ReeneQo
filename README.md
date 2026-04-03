@@ -66,7 +66,7 @@ Backend (NestJS, TypeScript, PostgreSQL, Redis, Docker):
 Деплой:
 — Самостоятельный деплой на VPS: настройка сервера, Nginx (reverse proxy, SSL), Docker Compose
 
-Стек: Next.js, TypeScript, Tailwind, NestJS, PostgreSQL, Redis, Docker, Nginx, Git, Figma
+`Next.js` `TypeScript` `SCSS` `NestJS` `PostgreSQL` `Redis` `Docker` `Nginx` `Git` `Figma`
 
 ---
 
