@@ -70,8 +70,7 @@ Backend (NestJS, TypeScript, PostgreSQL, Redis, Docker):
 
 ---
 
-**Spectre Boost** — коммерческий сервис игровых услуг (буст рейтинга) | [spectre-boost.vercel.app](https://spectre-boost.vercel.app)
-Fullstack-разработчик | Команда 2 человека
+**Spectre Boost** — коммерческий сервис интернет-услуг | Fullstack-разработчик | Команда 2 человека
 
 Полноценное клиент-серверное приложение с каталогом услуг, оформлением заказов, онлайн-оплатой через YooKassa, личным кабинетом и взаимодействием через Telegram.
 
