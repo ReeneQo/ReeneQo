@@ -70,27 +70,27 @@ Backend (NestJS, TypeScript, PostgreSQL, Redis, Docker):
 
 ---
 
-**Spectre Boost** — собственный коммерческий сервис интернет-услуг | spectre-boost.vercel.app
+**Spectre Boost** — коммерческий сервис игровых услуг (буст рейтинга) | [spectre-boost.vercel.app](https://spectre-boost.vercel.app)
 Fullstack-разработчик | Команда 2 человека
 
 Полноценное клиент-серверное приложение с каталогом услуг, оформлением заказов, онлайн-оплатой через YooKassa, личным кабинетом и взаимодействием через Telegram.
 
-Frontend (основной фокус) — React, TypeScript, Tailwind CSS, Zustand:
-— Спроектировал клиентскую архитектуру: API-клиент (native fetch) с обработкой ошибок и retry-логикой, сторы на Zustand, маршрутизация
-— Реализовал полный пользовательский флоу: каталог услуг → выбор → применение промокода → оформление заказа → оплата через YooKassa → отслеживание статуса в личном кабинете
-— Реализовал авторизацию через Telegram: интеграция Login Widget + fallback на code-based авторизацию (6-значный код с polling)
-— Обработка платёжных статусов на клиенте: редиректы, отображение результата, обработка edge-кейсов (таймаут, отмена, ошибка)
-— Адаптивная вёрстка, анимации (Framer Motion), полная оптимизация, семантика и доступность (a11y)
+**Frontend** (основной фокус) — React, TypeScript, Tailwind CSS, Zustand:
+- Спроектировал клиентскую архитектуру: API-клиент (native fetch) с обработкой ошибок и retry-логикой, сторы на Zustand, маршрутизация
+- Реализовал полный пользовательский флоу: каталог услуг → выбор → применение промокода → оформление заказа → оплата через YooKassa → отслеживание статуса в личном кабинете
+- Реализовал авторизацию через Telegram: интеграция Login Widget + fallback на code-based авторизацию (6-значный код с polling)
+- Обработка платёжных статусов на клиенте: редиректы, отображение результата, обработка edge-кейсов (таймаут, отмена, ошибка)
+- Адаптивная вёрстка, анимации (Framer Motion), полная оптимизация, семантика и доступность (a11y)
 
-Backend (участие в разработке) — NestJS, TypeScript, Prisma, PostgreSQL, Docker:
-— Участвовал в проектировании REST API: структура эндпоинтов, формат ответов, обработка ошибок
-— Доработка эндпоинтов под нужды фронтенда, работа с Prisma-моделями
-— Участвовал в интеграции YooKassa: тестирование webhook, валидация платёжных статусов
-— Понимание полной серверной архитектуры: RBAC (3 роли), статусная машина заказов, event-driven распределение
+**Backend** (участие в разработке) — NestJS, TypeScript, Prisma, PostgreSQL, Docker:
+- Участвовал в проектировании REST API: структура эндпоинтов, формат ответов, обработка ошибок
+- Доработка эндпоинтов под нужды фронтенда, работа с Prisma-моделями
+- Участвовал в интеграции YooKassa: тестирование webhook, валидация платёжных статусов
+- Понимание полной серверной архитектуры: RBAC (3 роли), статусная машина заказов, event-driven распределение
 
-Деплой: Vercel (фронтенд)
+**Деплой:** Vercel (фронтенд)
 
-Стек: React, TypeScript, Tailwind CSS, Zustand, Framer Motion, NestJS, Prisma, PostgreSQL, Docker, Telegram Bot API, Git, Figma
+`React` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion` `NestJS` `Prisma` `PostgreSQL` `Docker` `Telegram Bot API` `Git` `Figma`
 
 ---
 
@@ -102,4 +102,6 @@ Backend (участие в разработке) — NestJS, TypeScript, Prisma,
 ---
 
 ### 📬 Контакты
-- Telegram: [@ReneeQ_o](https://t.me/ReneeQ_o)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReneeQ_o)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wind.autumn@mail.ru)
