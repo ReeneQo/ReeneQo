@@ -103,5 +103,7 @@ Fullstack-разработчик | Команда 2 человека
 
 ### 📬 Контакты
 
+Почта: `wind.autumn@mail.ru`
+Telegram: `@ReneeQ_o`
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReneeQ_o)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wind.autumn@mail.ru)
